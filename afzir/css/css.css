@@ -1102,7 +1102,7 @@ div#content
     border-bottom: solid 2px #7a7a7a;
     border-radius: 1px; 
 }
-/*961018*/
+/*961010*/
 			.woocommerce .related ul li a.ajax_add_to_cart
 {
 	bottom:-10px
@@ -1178,4 +1178,8 @@ div#content
     overflow: hidden;
     -webkit-transform: translate3d(0,0,0);
 }
-/**/
+/*961018*/
+.g1-nav--simple.g1-nav--collapsed #g1-primary-nav-menu > .current_page_item > a {
+background-color: #fff;
+color: #EBC048;
+}
