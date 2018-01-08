@@ -1182,6 +1182,7 @@ div#content
 }
 /*961018*/
 .g1-nav--simple.g1-nav--collapsed #g1-primary-nav-menu > .current_page_item > a {
-background-color: #fff;
-color: #EBC048;
+    color: #7a7a7a;
+    background-color: #fff;
+    border-bottom: solid 2px #EBC048;
 }
