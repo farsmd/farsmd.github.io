@@ -1040,6 +1040,7 @@ div#content
 {
 	max-width:90%;
 	width: unset;
+	overflow: hidden;
 }
 
 div#content
